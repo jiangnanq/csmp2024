@@ -21,9 +21,6 @@
 |序号|主题|by|
 |---|----|---|
 |1|[何为信仰三](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0301_f.mp3)|任不寐|
-|2|[希伯来书毕业答辩三](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0302_f.mp3)|学员三|
-|3|[希伯来书毕业答辩四](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0303_f.mp3)|学员四|
-|4|[希伯来书毕业答辩五](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0304_f.mp3)|学员五|
 
 ## 8月4日
 
