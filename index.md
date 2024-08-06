@@ -44,3 +44,7 @@
 * 西缅颂
 [歌词](https://carmelbible.sgp1.digitaloceanspaces.com/%E8%B5%9E%E7%BE%8E%E8%AF%97/%E8%A5%BF%E7%BC%85%E9%A2%82.jpg)
 [示范版本](https://carmelbible.sgp1.digitaloceanspaces.com/%E8%B5%9E%E7%BE%8E%E8%AF%97/%E8%A5%BF%E9%9D%A2%E9%A2%82.mp3)
+
+* 圣餐序文
+[歌词](https://carmelbible.sgp1.digitaloceanspaces.com/%E8%B5%9E%E7%BE%8E%E8%AF%97/%E5%9C%A3%E9%A4%90%E5%BA%8F%E6%96%87.jpg)
+[示范版本](https://carmelbible.sgp1.digitaloceanspaces.com/%E8%B5%9E%E7%BE%8E%E8%AF%97/%E5%9C%A3%E9%A4%90%E5%BA%8F%E6%96%87.mp3)
