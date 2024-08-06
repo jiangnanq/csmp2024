@@ -31,3 +31,19 @@
 |序号|主题|by|
 |---|----|---|
 |1|[何为信仰四](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0501_f.mp3)|任不寐|
+
+## 其它资源
+
+### 赞美诗歌
+
+* 上帝羔羊
+[歌词](https://carmelbible.sgp1.digitaloceanspaces.com/%E8%B5%9E%E7%BE%8E%E8%AF%97/%E4%B8%8A%E5%B8%9D%E7%BE%94%E7%BE%8A.jpg)
+[示范版本](https://carmelbible.sgp1.digitaloceanspaces.com/%E8%B5%9E%E7%BE%8E%E8%AF%97/%E4%B8%8A%E5%B8%9D%E7%BE%94%E7%BE%8A.mp3)
+
+* 三圣颂
+[歌词](https://carmelbible.sgp1.digitaloceanspaces.com/%E8%B5%9E%E7%BE%8E%E8%AF%97/%E4%B8%89%E5%9C%A3%E9%A2%82.jpg)
+[示范版本](https://carmelbible.sgp1.digitaloceanspaces.com/%E8%B5%9E%E7%BE%8E%E8%AF%97/%E4%B8%89%E5%9C%A3%E9%A2%82.mp3)
+
+* 西缅颂
+[歌词](https://carmelbible.sgp1.digitaloceanspaces.com/%E8%B5%9E%E7%BE%8E%E8%AF%97/%E8%A5%BF%E7%BC%85%E9%A2%82.jpg)
+[示范版本](https://carmelbible.sgp1.digitaloceanspaces.com/%E8%B5%9E%E7%BE%8E%E8%AF%97/%E8%A5%BF%E9%9D%A2%E9%A2%82.mp3)
