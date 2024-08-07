@@ -29,6 +29,14 @@
 |---|----|---|
 |1|[何为信仰四](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0501_f.mp3)|任不寐|
 
+## 8月6日
+
+学员答辩
+
+## 8月7日
+
+学员答辩
+
 ## 其它资源
 
 ### 赞美诗歌
