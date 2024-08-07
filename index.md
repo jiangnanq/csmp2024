@@ -48,3 +48,7 @@
 * 圣餐序文
 [歌词](https://carmelbible.sgp1.digitaloceanspaces.com/%E8%B5%9E%E7%BE%8E%E8%AF%97/%E5%9C%A3%E9%A4%90%E5%BA%8F%E6%96%87.jpg)
 [示范版本](https://carmelbible.sgp1.digitaloceanspaces.com/%E8%B5%9E%E7%BE%8E%E8%AF%97/%E5%9C%A3%E9%A4%90%E5%BA%8F%E6%96%87.mp3)
+
+* 尊主颂
+[歌词](https://carmelbible.sgp1.digitaloceanspaces.com/%E8%B5%9E%E7%BE%8E%E8%AF%97/%E5%B0%8A%E4%B8%BB%E9%A2%82.png)
+[示范版本](https://carmelbible.sgp1.digitaloceanspaces.com/%E8%B5%9E%E7%BE%8E%E8%AF%97/%E5%B0%8A%E4%B8%BB%E9%A2%82.mp3)
