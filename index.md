@@ -37,6 +37,13 @@
 
 学员答辩
 
+## 8月8日
+
+|序号|主题|by|
+|---|----|---|
+|1|[劝勉新加坡](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0801f.mp3)|任不寐|
+
+
 ## 其它资源
 
 ### 赞美诗歌
