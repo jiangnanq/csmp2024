@@ -13,7 +13,7 @@
 |8月8日|劝勉新加坡|[YouTube](https://www.youtube.com/watch?v=BFMUjauh__s&t=1195s)|||
 |8月8日|自由问答环节|||[文字](0802.md)|
 
-## 集训照片、集锦
+## [集训照片、集锦](photoes.md)
 
 ## 集训征文
 
