@@ -4,13 +4,13 @@
 |日期|主题|视频|音频|文字|
 |-------|-------------|------------|--------------|---------------|
 |8月1日|何为信仰一|[YouTube](https://www.youtube.com/watch?v=-2ZYWbgL0KA&t=603s)|[音频](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0101_f.mp3)|[文字]()|
-|8月2日|何为信仰二|[YouTube]()|[音频](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0201_f.mp3)|[文字]()|
-|8月3日|何为信仰三|[YouTube]()|[音频](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0301_f.mp3)|[文字]()|
+|8月2日|何为信仰二||[音频](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0201_f.mp3)||
+|8月3日|何为信仰三||[音频](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0301_f.mp3)||
 |8月4日|主日敬拜||||
-|8月5日|何为信仰四|[YouTube]()|[音频]()|[文字]()|
+|8月5日|何为信仰四||||
 |8月6日|学员答辩||||
 |8月7日|学员答辩||||
-|8月8日|劝勉新加坡|[YouTube](https://www.youtube.com/watch?v=BFMUjauh__s&t=1195s)|[音频]()|[文字]()|
+|8月8日|劝勉新加坡|[YouTube](https://www.youtube.com/watch?v=BFMUjauh__s&t=1195s)|||
 |8月8日|自由问答环节|||[文字](0802.md)|
 
 ## 集训照片、集锦
