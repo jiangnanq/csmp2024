@@ -3,7 +3,7 @@
 
 |日期|主题|视频|音频|文字|
 |-------|-------------|------------|--------------|---------------|
-|8月1日|何为信仰一|[YouTube](https://www.youtube.com/watch?v=-2ZYWbgL0KA&t=603s)|[音频](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0101_f.mp3)|[文字]()|
+|8月1日|何为信仰一|[YouTube](https://www.youtube.com/watch?v=-2ZYWbgL0KA&t=603s)|[音频](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0101_f.mp3)||
 |8月2日|何为信仰二||[音频](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0201_f.mp3)||
 |8月3日|何为信仰三||[音频](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0301_f.mp3)||
 |8月4日|主日敬拜||||
