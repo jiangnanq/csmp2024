@@ -1,21 +1,33 @@
 
 ## 8月1日
 
-|序号|主题|by|
-|---|----|---|
-|1|[何为信仰一](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0101_f.mp3)|任不寐|
+何为信仰一 (任牧师讲道)
+
+[YouTube](https://www.youtube.com/watch?v=-2ZYWbgL0KA&t=603s)
+
+[音频版](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0101_f.mp3)
+
+[文字版]()
 
 ## 8月2日
 
-|序号|主题|by|
-|---|----|---|
-|1|[何为信仰二](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0201_f.mp3)|任不寐|
+何为信仰二 (任牧师讲道)
+
+[YouTube](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0201_f.mp3)
+
+[音频版](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0201_f.mp3)
+
+[文字版]()
 
 ## 8月3日
 
-|序号|主题|by|
-|---|----|---|
-|1|[何为信仰三](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0301_f.mp3)|任不寐|
+何为信仰三 (任牧师讲道)
+
+[YouTube](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0201_f.mp3)
+
+[音频版](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0201_f.mp3)
+
+[文字版]()
 
 ## 8月4日
 
@@ -23,26 +35,33 @@
 
 ## 8月5日
 
-|序号|主题|by|
-|---|----|---|
-|1|[何为信仰四](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0501_f.mp3)|任不寐|
+何为信仰 (任牧师讲道)
+
+[YouTube](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0201_f.mp3)
+
+[音频版](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0201_f.mp3)
+
+[文字版]()
 
 ## 8月6日
 
-学员答辩
+学员答辩环节
 
 ## 8月7日
 
-学员答辩
+学员答辩环节
 
 ## 8月8日
 
-|序号|主题|by|
-|---|----|---|
-|1|[劝勉新加坡](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0801f.mp3)|任不寐|
-|1|[学员自由提问](0802.md)|任牧师和所有学员|
+劝勉新加坡 (任牧师讲道)
+
+[YouTube](https://www.youtube.com/watch?v=BFMUjauh__s&t=1073s)
+
+[学员自由提问环节](0802.md)
 
 ## 集训花絮
+
+## 集训征文
 
 ## 其它资源
 
