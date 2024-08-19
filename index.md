@@ -4,14 +4,12 @@
 |序号|主题|by|
 |---|----|---|
 |1|[何为信仰一](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0101_f.mp3)|任不寐|
-|2|[原文课一](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0102_f.mp3)|利未牧师|
 
 ## 8月2日
 
 |序号|主题|by|
 |---|----|---|
 |1|[何为信仰二](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0201_f.mp3)|任不寐|
-|5|[原文课二](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0205_f.mp3)|利未牧师|
 
 ## 8月3日
 
@@ -42,7 +40,9 @@
 |序号|主题|by|
 |---|----|---|
 |1|[劝勉新加坡](https://carmelbible.sgp1.digitaloceanspaces.com/csmp2024/0801f.mp3)|任不寐|
+|1|[学员自由提问](0802.md)|任牧师和所有学员|
 
+## 集训花絮
 
 ## 其它资源
 
